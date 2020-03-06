@@ -21779,12 +21779,13 @@ iframe#viAd {
     display: none;
 }
 .navbar{
-    background-color: #ff3b30;
+    background-color: #007aff;
     height: 48px;
 }
 .navbar-inner {
     height: 48px;
 }
+
 .style-list-item > ul > li>.item-link{
     background: #009688;
     color:#fff;
@@ -21839,10 +21840,10 @@ img{
 }
 /* trang danh mục */
 .smart-select-page .navbar{
-    background-color: #ff3b30;
+    background-color: #007aff;
 }
 .smart-select-page .navbar-inner{
-    background-color: #ff3b30;
+    background-color: #007aff;
 }
 .subnavbar:before{
     content: none;
@@ -21940,7 +21941,7 @@ img{
     color: #fff !important;
 }
 .box-search input{
-    background-color: #ff3b30 !important;
+    background-color: #007aff !important;
     color: #fff !important;
     font-family: 'Roboto-Light' !important;
     font-size: 15px !important;
@@ -21979,7 +21980,7 @@ img{
 }
 .smart-select-page .list label.item-radio input[type="radio"]:checked ~ .icon-radio:after, .ios label.item-radio input[type="radio"]:checked ~ * .icon-radio:after, .ios .radio input[type="radio"]:checked ~ .icon-radio:after {
     opacity: 1;
-    color: #ff3b30;
+    color: #007aff;
 }
 .swiper-container-multirow-column > .swiper-wrapper {
     flex-direction: initial;
@@ -21989,7 +21990,7 @@ img{
     margin-bottom: 10px;
 }
 .swiper-pagination-bullet-active {
-    background: #ff3b30 !important;
+    background: #007aff !important;
 }
 .popup.modal-in {
     transform: translate3d(0,0,0);
@@ -22019,7 +22020,7 @@ img{
 }
 .style-list-radio .list label.item-radio input[type="radio"]:checked ~ .icon-radio:after, .ios label.item-radio input[type="radio"]:checked ~ * .icon-radio:after, .ios .radio input[type="radio"]:checked ~ .icon-radio:after {
     opacity: 1;
-    color: #ff3b30;
+    color: #007aff;
 }
 .style-list-radio-quiz .list .icon-radio:after {
     opacity: 0;
@@ -22032,7 +22033,7 @@ img{
 }
 .style-list-radio-quiz .list label.item-radio input[type="radio"]:checked ~ .icon-radio:after, .ios label.item-radio input[type="radio"]:checked ~ * .icon-radio:after, .ios .radio input[type="radio"]:checked ~ .icon-radio:after {
     opacity: 1;
-    color: #ff3b30;
+    color: #007aff;
 }
 .style-list-radio-quiz .item-inner{
     padding-left: 15px ;
@@ -22052,7 +22053,7 @@ img{
     font-size: 15px !important;
 }
 .navbar-bg{
-    background-color: #ff3b30 !important;
+    background-color: #007aff !important;
 }
 .navbar .subnavbar{
     top: 48px !important;
@@ -22097,7 +22098,7 @@ img{
     z-index: 0;
     display: inline-block;
     width: 100%;
-    background: #ff3b30;
+    background: #007aff;
     cursor: pointer;
     color: #fff;
     padding: 10px 0;
