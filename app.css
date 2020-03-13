@@ -22186,6 +22186,14 @@ img{
     margin-top: -3px;
 }
 
+
+.my-title-font-size{
+    font-size: 12px;
+}
+.my-label-font-size{
+    font-size: 14px;
+}
+
 .croppie-container {
     width: 100%;
     height: 100%;
