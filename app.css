@@ -21773,6 +21773,33 @@ iframe#viAd {
 .fa-info-circle:before {
     content: "\F05A";
 }
+.fa-bars:before {
+  content: "\F0C9";
+}
+.fa-plane:before {
+  content: "\F072";
+}
+.fa-floppy-o:before {
+  content: "\F0C7";
+}
+.fa-exchange:before {
+  content: "\F0EC";
+}
+.fa-paper-plane:before {
+  content: "\F1D8";
+}
+.fa-briefcase:before {
+  content: "\F0B1";
+}
+.fa-check-square-o:before {
+  content: "\F046";
+}
+.fa-ban:before {
+  content: "\F05E";
+}
+.fa-trash-o:before {
+  content: "\F014";
+}
 
 /* Your app styles here */
 ::-webkit-scrollbar {
@@ -22192,6 +22219,11 @@ img{
 }
 .my-label-font-size{
     font-size: 14px;
+}
+
+
+.style-content-page .page-content{
+  padding-top: 0px !important;
 }
 
 .croppie-container {
